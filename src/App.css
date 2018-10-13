@@ -26,3 +26,9 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+:root{
+  --theme-color-dark : #1e3799;
+  --theme-color-light: #4a69bd;
+  --theme-font-color: #f5f6fa;
+}
